@@ -1,0 +1,134 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+
+ul li
+{
+
+    list-style: none;
+}
+
+a{
+   text-decoration: none;
+
+}
+
+/* .topbar{
+
+    color: white;
+} */
+
+.head-buttons a{
+
+    padding: 2px;
+    border-radius: 0px;
+}
+.saylani-logo{
+
+    width: 250px;
+}
+ .menu ul li {
+
+    display: inline-block;
+ }
+
+ .menu ul li a{
+
+
+    display: inline-block;
+    padding: 15px 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    
+ }
+
+
+ .menu ul li a:hover{
+     background-color: #316dc3;
+     color: white;
+     border-radius: 30px;
+     align-items: center;
+     padding-bottom: 5px;
+    
+    
+     padding-top: 5px;
+ }
+ 
+.slider{
+
+    width: 100%;
+}
+.m-3{
+    background-color: blue;
+}
+.line{
+
+     color: white;
+    
+}
+.mar1{
+
+    height: 25px;
+}
+h2.intro-title{
+
+    text-align: center;
+    color: #316dc3;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+}
+.separator{
+    align-items: center;
+   
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+h2.what-title{
+    text-align: center;
+    color: #316dc3;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+.hd{
+padding: 3px;
+border: solid 1px white;
+box-shadow: grey 4px 10px 20px;
+margin-left: 70px;
+text-align: center;
+}
+
+ .separator{
+     width: 70px;
+     height: 3px;
+     background-color: green;
+     display: block;
+ }
+ .projects marquee{
+
+    height: 200px;
+ }
+
+ .images1{
+    
+ }
+
+.gallery{
+
+
+     padding-: 1px;
+     margin: 15px;
+
+ }
+.navbar{
+    position: fixed;
+}
+
